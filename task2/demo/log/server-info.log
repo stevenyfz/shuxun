@@ -1,0 +1,18 @@
+2020-04-08.16:22:46 [ INFO] com.example.demo.DemoApplication  55 logStarting Starting DemoApplication on DESKTOP-D481SBF with PID 15200 (C:\Users\Steven\IdeaProjects\demo\target\classes started by Steven in C:\Users\Steven\IdeaProjects\demo)
+2020-04-08.16:22:46 [ INFO] com.example.demo.DemoApplication 651 logStartupProfileInfo No active profile set, falling back to default profiles: default
+2020-04-08.16:22:48 [ INFO] com.example.demo.DemoApplication  61 logStarted Started DemoApplication in 2.736 seconds (JVM running for 5.199)
+2020-04-08.16:25:25 [ INFO] com.example.demo.DemoApplication  55 logStarting Starting DemoApplication on DESKTOP-D481SBF with PID 8648 (C:\Users\Steven\IdeaProjects\demo\target\classes started by Steven in C:\Users\Steven\IdeaProjects\demo)
+2020-04-08.16:25:25 [ INFO] com.example.demo.DemoApplication 651 logStartupProfileInfo No active profile set, falling back to default profiles: default
+2020-04-08.16:25:27 [ INFO] com.example.demo.DemoApplication  61 logStarted Started DemoApplication in 2.812 seconds (JVM running for 5.277)
+2020-04-08.16:26:25 [ INFO] com.example.demo.DemoApplication  55 logStarting Starting DemoApplication on DESKTOP-D481SBF with PID 12236 (C:\Users\Steven\IdeaProjects\demo\target\classes started by Steven in C:\Users\Steven\IdeaProjects\demo)
+2020-04-08.16:26:25 [ INFO] com.example.demo.DemoApplication 651 logStartupProfileInfo No active profile set, falling back to default profiles: default
+2020-04-08.16:26:27 [ INFO] com.example.demo.DemoApplication  61 logStarted Started DemoApplication in 2.751 seconds (JVM running for 5.016)
+2020-04-08.16:29:36 [ INFO] com.example.demo.DemoApplication  55 logStarting Starting DemoApplication on DESKTOP-D481SBF with PID 572 (C:\Users\Steven\IdeaProjects\demo\target\classes started by Steven in C:\Users\Steven\IdeaProjects\demo)
+2020-04-08.16:29:36 [ INFO] com.example.demo.DemoApplication 651 logStartupProfileInfo No active profile set, falling back to default profiles: default
+2020-04-08.16:29:38 [ INFO] com.example.demo.DemoApplication  61 logStarted Started DemoApplication in 2.636 seconds (JVM running for 5.046)
+2020-04-08.16:30:16 [ INFO] com.example.demo.DemoApplication  55 logStarting Starting DemoApplication on DESKTOP-D481SBF with PID 9804 (C:\Users\Steven\IdeaProjects\demo\target\classes started by Steven in C:\Users\Steven\IdeaProjects\demo)
+2020-04-08.16:30:16 [ INFO] com.example.demo.DemoApplication 651 logStartupProfileInfo No active profile set, falling back to default profiles: default
+2020-04-08.16:30:18 [ INFO] com.example.demo.DemoApplication  61 logStarted Started DemoApplication in 2.632 seconds (JVM running for 4.954)
+2020-04-08.16:30:48 [ INFO] com.example.demo.DemoApplication  55 logStarting Starting DemoApplication on DESKTOP-D481SBF with PID 15152 (C:\Users\Steven\IdeaProjects\demo\target\classes started by Steven in C:\Users\Steven\IdeaProjects\demo)
+2020-04-08.16:30:48 [ INFO] com.example.demo.DemoApplication 651 logStartupProfileInfo No active profile set, falling back to default profiles: default
+2020-04-08.16:30:50 [ INFO] com.example.demo.DemoApplication  61 logStarted Started DemoApplication in 2.578 seconds (JVM running for 4.872)

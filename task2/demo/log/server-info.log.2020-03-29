@@ -1,0 +1,3 @@
+2020-03-29.16:33:54 [ INFO] com.example.demo.DemoApplication  55 logStarting Starting DemoApplication on DESKTOP-D481SBF with PID 12692 (C:\Users\Steven\IdeaProjects\demo\target\classes started by Steven in C:\Users\Steven\IdeaProjects\demo)
+2020-03-29.16:33:54 [ INFO] com.example.demo.DemoApplication 651 logStartupProfileInfo No active profile set, falling back to default profiles: default
+2020-03-29.16:33:57 [ INFO] com.example.demo.DemoApplication  61 logStarted Started DemoApplication in 2.601 seconds (JVM running for 5.333)
